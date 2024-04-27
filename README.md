@@ -15,7 +15,10 @@ in one folder and a set of 3D images in another. If I make changes to the
 tags in one folder, I'd rather not have to go to a lot of work to change the
 tags in the other folder.
 
-Usage Example: JpegMetaCopy c:\pictures\2D\*.jpg c:\pictures\3D\*.card.jpg
+Usage Example:
+```
+JpegMetaCopy c:\pictures\2D\*.jpg c:\pictures\3D\*.card.jpg
+```
 
 The above example would therefore copy tags
 from c:\pictures\2D\P123456.jpg 
